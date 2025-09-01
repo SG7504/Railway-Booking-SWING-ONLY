@@ -15,3 +15,5 @@ This Java code defines a Swing GUI application for a train booking page. Let's g
 Overall, this code sets up a basic train booking page GUI with input fields and a button for booking, using Swing components only in Java, it does not use other components like JDBC or SQL. This code is stricly based on SWING.
 
 Thank you taking interest in my code. Have a great day!
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
